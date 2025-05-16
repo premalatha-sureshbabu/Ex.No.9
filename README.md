@@ -197,7 +197,7 @@ Prompt-to-video comparison snapshots
 
 Prompt logs and observations
 
-RESULT:
+# RESULT:
 Thus, the experiment successfully explored prompting techniques for AI-based nature video generation, demonstrating how structured and creative inputs lead to meaningful and impactful environmental video content.
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
